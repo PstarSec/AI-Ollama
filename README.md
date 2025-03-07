@@ -95,7 +95,7 @@ http://example.com
 状态码: 404，不存在
 ```
 
-<img src="D:\桌面\博客文章\New笔记\笔记截图\2504fc7fc475093325d3a699895eb66.png" alt="2504fc7fc475093325d3a699895eb66" style="zoom: 67%;" />
+![](https://github.com/PstarSec/AI-Ollama/blob/main/2504fc7fc475093325d3a699895eb66.png)
 
 ## 7. **注意事项**
 

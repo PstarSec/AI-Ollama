@@ -76,7 +76,7 @@ python Api-Ollama.py -u http://example.com -t 10
 
 ## 6. **示例输出**
 
-![](D:\桌面\博客文章\New笔记\笔记截图\2504fc7fc475093325d3a699895eb66-1741325416560-2.png)
+![](https://github.com/PstarSec/AI-Ollama/blob/main/2504fc7fc475093325d3a699895eb66.png)
 
 **目标存在漏洞时：**
 

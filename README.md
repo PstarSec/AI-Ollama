@@ -17,10 +17,6 @@
 
 我的是 Python 3.10.7写的，依赖以下库：
 
-- `requests`（HTTP 请求库）
-- `argparse`（命令行参数解析）
-- `tabulate`（终端表格格式化）
-
 安装依赖：
 
 ```bash
